@@ -1,0 +1,1 @@
+/home/yomompancake/Desktop/Sagi/public-repositories/rust-course/chapter_3/variables/target/debug/variables: /home/yomompancake/Desktop/Sagi/public-repositories/rust-course/chapter_3/variables/src/main.rs
