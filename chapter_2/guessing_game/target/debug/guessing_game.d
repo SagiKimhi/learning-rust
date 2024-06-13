@@ -1,1 +1,0 @@
-/home/yomompancake/Desktop/Sagi/public-repositories/rust-course/chapter_2/guessing_game/target/debug/guessing_game: /home/yomompancake/Desktop/Sagi/public-repositories/rust-course/chapter_2/guessing_game/src/main.rs
